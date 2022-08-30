@@ -1,0 +1,20 @@
+{
+  "name": "aponica/assert-properties-php",
+  "description": "Asserts that an object contains certain properties",
+  "keywords": [ "assert", "assertion", "assertions", "dictionary", "hash",
+    "instance", "properties", "object", "validation" ],
+  "version": "2.0.0",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "authors": [
+    { "name": "Opplaud LLC", "email": "dev.support@aponica.com" }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "files": ["src/fAssertProperties.php"],
+    "psr-4": { "Aponica\\AssertProperties\\": "src" }
+  }
+}
