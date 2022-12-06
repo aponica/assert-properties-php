@@ -1,4 +1,4 @@
-# @aponica/assert-properties-php
+# aponica/assert-properties-php
 
 Assert that an object contains certain properties.
 
@@ -14,7 +14,7 @@ and should be kept synchronized with this version for consistency.
 ## Installation
 
 ```sh
-composer install @aponica/assert-properties-php
+composer install aponica/assert-properties-php
 ```
 
 <a name="usage"></a>
