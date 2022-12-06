@@ -3,7 +3,7 @@
   "description": "Asserts that an object contains certain properties",
   "keywords": [ "assert", "assertion", "assertions", "dictionary", "hash",
     "instance", "properties", "object", "validation" ],
-  "version": "2.0.0",
+  "version": "2.0.2",
   "type": "library",
   "license": "MIT",
   "minimum-stability": "stable",
